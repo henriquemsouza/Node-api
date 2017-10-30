@@ -12,6 +12,8 @@ npm install
 ```
 node server.js
 ```
+3. Para testar a API baixe o [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop).  ,depois do download insira as rotas abaixo no Postman
+
   Route                    |     HTTP  |    
 ------------------------- | ----------------- | 
 /api/User           |       GET         | 
